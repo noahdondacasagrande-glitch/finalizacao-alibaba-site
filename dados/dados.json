@@ -1,0 +1,712 @@
+[
+    {
+        "Id": 0,
+        "Produto": "",
+        "Classificacao": "",
+        "Preco": 0,
+        "Quant_Itens": 0
+    },
+    {
+        "Id": 1,
+        "Produto": "Notebook Gamer",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 2,
+        "Produto": "Mouse Sem Fio",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 3,
+        "Produto": "Teclado Mecanico",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 4,
+        "Produto": "Monitor LED 24",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 5,
+        "Produto": "Headset Gamer USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 6,
+        "Produto": "Caixa de Som PC",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 7,
+        "Produto": "Webcam Full HD",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 8,
+        "Produto": "Mousepad Control",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 9,
+        "Produto": "Cabo HDMI 2 metros",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 10,
+        "Produto": "Adaptador Wireless",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 11,
+        "Produto": "Pen Drive 64GB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 12,
+        "Produto": "HD Externo 1TB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 13,
+        "Produto": "SSD Sata 480GB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 14,
+        "Produto": "Memoria RAM 8GB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 15,
+        "Produto": "Placa de Video GTX",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 16,
+        "Produto": "Processador Core i5",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 17,
+        "Produto": "Placa Mae Asus",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 18,
+        "Produto": "Fonte ATX 500W",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 19,
+        "Produto": "Cooler Fan 120mm",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 20,
+        "Produto": "Gabinete ATX Vidro",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 21,
+        "Produto": "Pasta Termica Prata",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 22,
+        "Produto": "Filtro de Linha 5T",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 23,
+        "Produto": "Estabilizador 300VA",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 24,
+        "Produto": "Nobreak 600VA",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 25,
+        "Produto": "Roteador Gigabyte",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 26,
+        "Produto": "Switch 8 Portas",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 27,
+        "Produto": "Repetidor Wireless",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 28,
+        "Produto": "Antena Wireless USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 29,
+        "Produto": "Microfone Desk USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 30,
+        "Produto": "Mesa Digitalizadora",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 31,
+        "Produto": "Suporte Articulado",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 32,
+        "Produto": "Cadeira Gamer Preta",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 33,
+        "Produto": "Mesa Escritorio L",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 34,
+        "Produto": "Luminaria LED USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 35,
+        "Produto": "Hub USB 4 Portas",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 36,
+        "Produto": "Carregador Tipo C",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 37,
+        "Produto": "Bateria CR2032 5un",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 38,
+        "Produto": "Cabo de Rede 5m",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 39,
+        "Produto": "Conector RJ45 10un",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 40,
+        "Produto": "Alicate de Crimpar",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 41,
+        "Produto": "Multimetro Digital",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 42,
+        "Produto": "Ferro de Soldar 40W",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 43,
+        "Produto": "Estanho para Solda",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 44,
+        "Produto": "Limpa Contatos Spray",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 45,
+        "Produto": "Ar Comprimido Lata",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 46,
+        "Produto": "Base Cooler Notebook",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 47,
+        "Produto": "Mochila Notebook 15",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 48,
+        "Produto": "Capa Neoprene 15",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 49,
+        "Produto": "Pelicula Anti Reflexo",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 50,
+        "Produto": "Organizador de Cabos",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 51,
+        "Produto": "Bracadeira Plastica",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 52,
+        "Produto": "Fita Isolante Preta",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 53,
+        "Produto": "Parafuso Gabinete",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 54,
+        "Produto": "Chave Philips Magnet",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 55,
+        "Produto": "Chave de Fenda Mini",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 56,
+        "Produto": "Kit de Ferramentas PC",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 57,
+        "Produto": "Luva Antiestatica",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 58,
+        "Produto": "Pulseira Antiestatica",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 59,
+        "Produto": "Placa de Som USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 60,
+        "Produto": "Placa de Rede Giga",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 61,
+        "Produto": "Gravador de DVD USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 62,
+        "Produto": "Leitor Cartao SD USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 63,
+        "Produto": "Adaptador Bluetooth",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 64,
+        "Produto": "Smartwatch Tech",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 65,
+        "Produto": "Smartphone Quad Core",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 66,
+        "Produto": "Tablet 10 Polegadas",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 67,
+        "Produto": "Ereader Digital",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 68,
+        "Produto": "Carregador Sem Fio",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 69,
+        "Produto": "Power Bank 10000MAH",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 70,
+        "Produto": "Fone Bluetooth Intra",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 71,
+        "Produto": "Caixa Bluetooth Desk",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 72,
+        "Produto": "Assistente Virtual",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 73,
+        "Produto": "Lampada Smart Wi-Fi",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 74,
+        "Produto": "Tomada Smart Wi-Fi",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 75,
+        "Produto": "Controle Smart Wi-Fi",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 76,
+        "Produto": "Fita LED RGB 5m",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 77,
+        "Produto": "Camera Seguranca IP",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 78,
+        "Produto": "DVR 4 Canais Video",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 79,
+        "Produto": "HD Interno 2TB Surveillance",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 80,
+        "Produto": "Cabo Coaxial 20m",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 81,
+        "Produto": "Conector BNC Mola",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 82,
+        "Produto": "Sensor de Presenca",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 83,
+        "Produto": "Alarme Residencial Kit",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 84,
+        "Produto": "Sirene Eletronica",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 85,
+        "Produto": "Interfone Residencial",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 86,
+        "Produto": "Fechadura Eletrica",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 87,
+        "Produto": "Video Porteiro Color",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 88,
+        "Produto": "Fragmentadora Papel",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 89,
+        "Produto": "Plastificadora A4",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 90,
+        "Produto": "Guilhotina de Papel",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 91,
+        "Produto": "Rotulador Digital",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 92,
+        "Produto": "Fita para Rotulador",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 93,
+        "Produto": "Calculadora Cientifica",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 94,
+        "Produto": "Bobina Termica 79x40",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 95,
+        "Produto": "Cartucho Tinta Preto",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 96,
+        "Produto": "Cartucho Tinta Color",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 97,
+        "Produto": "Toner Impressora Laser",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 98,
+        "Produto": "Impressora Tanque Tinta",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 99,
+        "Produto": "Scanner de Mesa USB",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        "Id": 100,
+        "Produto": "Suporte Teclado Desk",
+        "Classificacao": "Computador",
+        "Preco": 0,
+        "Quant_Itens": 500
+    },
+    {
+        
+    }
+]
