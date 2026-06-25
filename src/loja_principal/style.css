@@ -25,3 +25,11 @@ nav{
     height: 35px;
     width: auto;
 }
+#categorias{
+    display: flex;
+    flex-direction: row;
+}
+#tipos_categorias{
+    color: transparent;
+    
+}
