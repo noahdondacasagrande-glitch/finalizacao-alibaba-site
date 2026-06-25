@@ -17,3 +17,11 @@ nav{
     position: fixed;
     top: 0;
 }
+#barra_pesquisa{
+    display: flex;
+    flex-direction: row;
+}
+#barra_pesquisa input{
+    height: 35px;
+    width: auto;
+}
